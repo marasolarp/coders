@@ -1,0 +1,39 @@
+.box{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+}
+.imagen1{
+	background-image: url(avril-lavigne.jpg);	
+}
+.imagen2{
+	background-image: url(katty.jpg);
+}
+.imagen3{
+	background-image: url(marilyn.jpg);
+}
+
+.imagen4{
+	background-image: url(Rihanna.jpg);	
+}
+.imagen5{
+	background-image: url(violeta-parra.jpg);
+}
+.imagen6{
+	background-image: url(lady-gaga.jpg);	
+}
+.caja{
+	/*border:1px solid red;*/
+	overflow: hidden;/*esto sirve para que no colapse el contenedor*/
+}
+.parrafo{
+	text-align: right;
+	margin-top: 170px;
+	color:#fff;
+}
+.linea{
+	border: 5px solid black;
+	width:85px;
+}
+
